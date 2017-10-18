@@ -1,0 +1,21 @@
+﻿  rbf.cpp
+c:\opencv3.1,0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv3.1,0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv3.1,0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\opencv3.1,0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\kmeans.h(78): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\kmeans.h(216): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\kmeans.h(217): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\rbf.h(44): warning C4101: “hist_variance”: 未引用的局部变量
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\rbf.h(44): warning C4101: “hist_mean”: 未引用的局部变量
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\rbf.h(44): warning C4101: “hist_kurtosis”: 未引用的局部变量
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\rbf.h(44): warning C4101: “hist_skewness”: 未引用的局部变量
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\imageprocess.h(153): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\matrix.h(185): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\matrix.h(147): note: 编译类 模板 成员函数“Matrix<int> &Matrix<int>::getInverse(void)”时
+  c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\imageprocess.h(13): note: 参见对正在编译的类 模板 实例化“Matrix<int>”的引用
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\matrix.h(206): warning C4244: “-=”: 从“double”转换到“int”，可能丢失数据
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\matrix.h(145): warning C4715: “Matrix<double>::operator*”: 不是所有的控件路径都返回值
+c:\users\navygold\documents\visual studio 2015\projects\rbftest\rbftest\matrix.h(145): warning C4715: “Matrix<int>::operator*”: 不是所有的控件路径都返回值
+  RbfTest.vcxproj -> C:\Users\NavyGold\documents\visual studio 2015\Projects\RbfTest\x64\Debug\RbfTest.exe
+  RbfTest.vcxproj -> C:\Users\NavyGold\documents\visual studio 2015\Projects\RbfTest\x64\Debug\RbfTest.pdb (Full PDB)
